@@ -1,0 +1,1033 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sta",
+				"readyState"
+			],
+			[
+				"p",
+				"pizza.js"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"top",
+				"top5.js"
+			],
+			[
+				"requ",
+				"request2"
+			],
+			[
+				"coffeemakerSt",
+				"coffeemakerStatusDiv2"
+			],
+			[
+				"dr",
+				"drawXY"
+			],
+			[
+				"crea",
+				"creationF"
+			],
+			[
+				"mousemo",
+				"mousemoveF"
+			],
+			[
+				"fi",
+				"FIGURES"
+			],
+			[
+				"cir",
+				"circleF"
+			],
+			[
+				"up",
+				"updateBound"
+			],
+			[
+				"pi",
+				"PI"
+			],
+			[
+				"clo",
+				"closePath"
+			],
+			[
+				"mou",
+				"mouseXY"
+			],
+			[
+				"data",
+				"dataim"
+			],
+			[
+				"can",
+				"canvasY"
+			],
+			[
+				"sho",
+				"showAllSpeedF"
+			],
+			[
+				"Obj",
+				"OBJECTS"
+			],
+			[
+				"new",
+				"newLn1"
+			],
+			[
+				"moused",
+				"mousedown"
+			],
+			[
+				"shi",
+				"shiftOpac"
+			],
+			[
+				"cou",
+				"countShadow"
+			],
+			[
+				"tota",
+				"totalSY"
+			],
+			[
+				"star",
+				"startPos"
+			],
+			[
+				"O",
+				"OBJ"
+			],
+			[
+				"nex",
+				"nextLn"
+			],
+			[
+				"remo",
+				"removeNode"
+			],
+			[
+				"CopY",
+				"COPY"
+			],
+			[
+				"cop",
+				"COPY"
+			],
+			[
+				"con",
+				"contextF"
+			],
+			[
+				"G",
+				"GRIDARR"
+			],
+			[
+				"ca",
+				"canvasW"
+			],
+			[
+				"un",
+				"unstroke"
+			],
+			[
+				"pre",
+				"prevLn"
+			],
+			[
+				"sele",
+				"selected"
+			],
+			[
+				"clea",
+				"cleanSELECTION"
+			],
+			[
+				"ung",
+				"ungroupChilds"
+			],
+			[
+				"indeg",
+				"indexGP"
+			],
+			[
+				"in",
+				"indexGroup"
+			],
+			[
+				"find",
+				"findGroup"
+			],
+			[
+				"Gro",
+				"GROUPS"
+			],
+			[
+				"ob",
+				"OBJ"
+			],
+			[
+				"conte",
+				"contextF"
+			],
+			[
+				"blo",
+				"blockRectSel"
+			],
+			[
+				"add",
+				"addToSELECTION"
+			],
+			[
+				"mo",
+				"mousedown"
+			],
+			[
+				"mousedo",
+				"mousedownXY"
+			],
+			[
+				"ad",
+				"addToSELECTION"
+			],
+			[
+				"sel",
+				"selected"
+			],
+			[
+				"Main",
+				"MAIN"
+			],
+			[
+				"ove",
+				"overObject"
+			],
+			[
+				"Ob",
+				"OBJECTS"
+			],
+			[
+				"firs",
+				"firstNode"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"fill",
+				"fillCol"
+			],
+			[
+				"obj",
+				"OBJECTS"
+			],
+			[
+				"se",
+				"SELECTION"
+			],
+			[
+				"S",
+				"SELECTION"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"re",
+				"returnToStart"
+			],
+			[
+				"P",
+				"PARENTS"
+			],
+			[
+				"ne",
+				"nextLn"
+			],
+			[
+				"Pare",
+				"PARENT"
+			],
+			[
+				"parN",
+				"PARENT"
+			],
+			[
+				"bu",
+				"buildPath"
+			],
+			[
+				"ha",
+				"halfW"
+			],
+			[
+				"sc",
+				"scrollTop"
+			],
+			[
+				"remove",
+				"removeChild"
+			],
+			[
+				"he",
+				"heightSvg"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"q",
+				"ct-oq\tcontent: open-quote;"
+			],
+			[
+				"arr",
+				"arrs"
+			],
+			[
+				"sign",
+				"signX"
+			],
+			[
+				"Xl",
+				"XL"
+			],
+			[
+				"c",
+				"creaeArray"
+			],
+			[
+				"ap",
+				"arrayP"
+			],
+			[
+				"cr",
+				"createPath"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"bo",
+				"bower_components/"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/F/HTML5/HTML5/ShablonLight/SL.sublime-project",
+			"settings":
+			{
+				"buffer_size": 129,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 1170,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 187,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "ins",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"subl",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"mark sty",
+				"SublimeLinter: Choose Mark Style"
+			],
+			[
+				"sublimelinter lint mode",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"git a",
+				"Git: Add All"
+			],
+			[
+				" Git: checkout ",
+				"Git: Checkout Tag"
+			],
+			[
+				" git ",
+				"Git: Log All"
+			],
+			[
+				" git ch",
+				"Git: Checkout Tag"
+			],
+			[
+				"git",
+				"Git: Graph All"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"gulp",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"add r",
+				"Package Control: Add Repository"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 560.0
+	},
+	"console":
+	{
+		"height": 87.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/HTML5/HTML5/shablon-new",
+		"/F/HTML5/HTML5/shablon-new/app/fonts",
+		"/F/HTML5/HTML5/shablon-new/app/js"
+	],
+	"file_history":
+	[
+		"/F/HTML5/HTML5/JQueryPlugin/SL.sublime-project",
+		"/F/HTML5/HTML5/shablon-master/shablon-master/shablon_master.sublime-project",
+		"/F/HTML5/HTML5/ShablonFromGit/src/template/head.html",
+		"/F/HTML5/HTML5/ShablonLight/app/index.html",
+		"/F/HTML5/HTML5/Shablon-mini/app/index.html",
+		"/F/HTML5/HTML5/ShablonLight/SL.sublime-project",
+		"/F/HTML5/HTML5/ShablonFromGit/ShablonFromGit.sublime-workspace",
+		"/F/HTML5/HTML5/ShablonLight/SL.sublime-workspace",
+		"/F/HTML5/HTML5/shablon-master/shablon-master/package.json",
+		"/E/OpenServer/domains/Ajax/chapter06/boards/boards.js",
+		"/E/OpenServer/domains/Ajax/chapter06/boards/text-utils.js",
+		"/E/OpenServer/domains/Ajax/chapter06/boards/boards.html",
+		"/E/OpenServer/domains/Ajax/chapter06/boards/getUpdatedSales.php",
+		"/C/Users/Andrey/Desktop/4444/js/text-utils.js",
+		"/E/OpenServer/domains/Ajax/chapter02/breakneck/placeOrder.php",
+		"/E/OpenServer/domains/Ajax/chapter02/breakneck/pizza.html",
+		"/E/OpenServer/domains/Ajax/chapter05/breakneck-complete/pizza.js",
+		"/E/OpenServer/domains/Ajax/chapter02/breakneck/pizza.js",
+		"/E/OpenServer/domains/Ajax/chapter05/breakneck-complete/order.php",
+		"/E/OpenServer/domains/Ajax/chapter05/breakneck-complete/placeOrder.php",
+		"/E/OpenServer/domains/Ajax/chapter05/breakneck-complete/pizza.html",
+		"/E/OpenServer/domains/Ajax/chapter02/breakneck/ajax.js",
+		"/E/OpenServer/domains/Ajax/chapter05/breakneck-complete/delivery.php",
+		"/E/OpenServer/domains/Ajax/chapter04/top5/top5.html",
+		"/E/OpenServer/domains/Ajax/chapter04/top5-complete/top5.js",
+		"/E/OpenServer/domains/Ajax/chapter04/top5/top5.js",
+		"/E/OpenServer/domains/Ajax/chapter04/top5-complete/top5.css",
+		"/E/OpenServer/domains/Ajax/chapter04/top5/top5.css",
+		"/E/OpenServer/domains/Ajax/chapter04/top5-complete/top5.html",
+		"/E/OpenServer/domains/Ajax/chapter03/coffee/coffeemaker.php",
+		"/E/OpenServer/domains/Ajax/chapter03/coffee/coffee.js",
+		"/E/OpenServer/domains/Ajax/chapter03/coffee/ajax.js",
+		"/E/OpenServer/domains/Ajax/chapter03/coffee/coffee.html",
+		"/E/OpenServer/domains/Ajax/chapter03/coffee/coffee.css",
+		"/E/OpenServer/domains/Ajax/chapter03/coffee-complete/coffee.js",
+		"/E/OpenServer/domains/Ajax/chapter02/breakneck/lookupCustomer.php",
+		"/E/OpenServer/domains/Ajax/chapter01/boards/boards.html",
+		"/E/OpenServer/domains/Ajax/chapter01/boards/getUpdatedBoardSales-ajax.php",
+		"/E/OpenServer/domains/Ajax/chapter01/boards/getUpdatedBoardSales.php",
+		"/E/OpenServer/domains/Ajax/chapter01/boards/text-utils.js",
+		"/E/OpenServer/domains/Ajax/chapter01/boards-complete/boards.css",
+		"/E/OpenServer/domains/Ajax/chapter01/boards-complete/boards.html",
+		"/E/OpenServer/domains/Ajax/chapter01/boards/getUpdatedBoardSales-mysql.php",
+		"/E/OpenServer/domains/Ajax/chapter01/boards/getUpdatedBoardSales-ajax_mysql.php",
+		"/C/Users/Andrey/Desktop/Project/app/js/common.js",
+		"/C/Users/Andrey/Desktop/Project/app/js/figures.js",
+		"/C/Users/Andrey/Desktop/Project/app/js/mathematic.js",
+		"/C/Users/Andrey/Desktop/Project/app/sass/main.scss",
+		"/C/Users/Andrey/Desktop/Project/app/index.html",
+		"/C/Users/Andrey/Desktop/Project/app/js/objects.js",
+		"/C/Users/Andrey/Desktop/Project/app/js/functions.js",
+		"/C/Users/Andrey/Desktop/Project/app/js/vars_and_flags.js",
+		"/C/Users/Andrey/Desktop/Project/app/js/interface.js",
+		"/C/Users/Andrey/Desktop/Project/app/js/Core.js",
+		"/C/Users/Andrey/Desktop/Project/app/js/vector.js",
+		"/C/Users/Andrey/Desktop/Project/gulpfile.js",
+		"/C/Users/Andrey/Desktop/Project/app/js/Objects",
+		"/C/Users/Andrey/AppData/Local/Google/Chrome/User Data/Default/Extensions/cmedhionkhpnakcndndgjdbohmhepckk/4.2.0_0/assets/easylist.txt",
+		"/C/Users/Andrey/AppData/Local/Google/Chrome/User Data/Default/Secure Preferences",
+		"/C/Users/Andrey/Desktop/Project/app/js/Functions.js",
+		"/C/Users/Andrey/Desktop/Project/app/js/Groups.js",
+		"/C/Users/Andrey/Desktop/Project/app/js/Move and Cling.js",
+		"/C/Users/Andrey/Desktop/Project/app/js/Menu.js",
+		"/C/Users/Andrey/Desktop/Project/app/js/Objects.js",
+		"/C/Users/Andrey/Desktop/Project/app/js/Vars.js",
+		"/C/Users/Andrey/Desktop/Project/app/js/Circle.js",
+		"/C/Users/Andrey/Desktop/Project/app/js/RectangleSelection.js",
+		"/C/Users/Andrey/Desktop/Project/backup.js",
+		"/C/Users/Andrey/Desktop/Project/SL.sublime-project",
+		"/F/HTML5/HTML5/ShablonLight/app/js/SVG.js",
+		"/F/HTML5/HTML5/ShablonLight/app/js/rafael.min.js",
+		"/F/HTML5/HTML5/ShablonLight/app/js/common.js",
+		"/F/HTML5/HTML5/ShablonLight/app/css/main.css",
+		"/F/HTML5/HTML5/ShablonLight/app/sass/main.scss",
+		"/F/HTML5/HTML5/ShablonLight/app/js/velocity.min.js",
+		"/C/Users/Andrey/Desktop/Project/package.json",
+		"/F/HTML5/HTML5/ShablonLight/gulpfile.js",
+		"/F/HTML5/HTML5/ShablonLight/app/css/fonts.css",
+		"/F/HTML5/HTML5/ShablonLight/app/html/ecmaDomBom.html",
+		"/F/HTML5/HTML5/ShablonLight/app/html/empty.html",
+		"/F/HTML5/HTML5/ShablonLight/app/js/bezier.js",
+		"/F/HTML5/HTML5/ShablonLight/app/html/index.html",
+		"/F/HTML5/HTML5/ShablonLight/app/sass/_test.scss",
+		"/C/Users/Andrey/AppData/Roaming/Sublime Text 3/Packages/User/dc.sublime-snippet",
+		"/C/Users/Andrey/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/C/Users/Andrey/AppData/Roaming/Sublime Text 3/Installed Packages/JavaScript & NodeJS Snippets.sublime-package",
+		"/F/HTML5/HTML5/ShablonLight/app/js/parser.js",
+		"/F/HTML5/HTML5/ShablonLight/app/js/defer.js",
+		"/C/Users/Andrey/AppData/Roaming/Sublime Text 3/Packages/User/col8_4.sublime-snippet",
+		"/F/Загрузки/ALL/Календарный_план_Комп_геом_и_геом_моделирование_НК_ФГОС.doc",
+		"/F/Загрузки/ALL/4.doc",
+		"/F/HTML5/HTML5/ShablonLight/app/js/test.js",
+		"/F/Загрузки/ALL/onlinefontconverter.com/onlinefontconverter.com/converted-files/font.css",
+		"/F/HTML5/HTML5/ShablonLight/app/html/test.html",
+		"/F/HTML5/HTML5/ShablonLight/app/css/truefalse.css",
+		"/C/Users/Andrey/Desktop/osago/style.css",
+		"/C/Users/Andrey/Desktop/dop.css",
+		"/C/Users/Andrey/Desktop/ftpxdrop/dddd.html",
+		"/C/Users/Andrey/Desktop/style.css",
+		"/C/Users/Andrey/Desktop/index.php",
+		"/C/Users/Andrey/Desktop/ftpxdrop/index.php",
+		"/F/HTML5/HTML5/ShablonLight/app/sass/_datatypes.scss",
+		"/F/HTML5/HTML5/ShablonLight/app/html/truefalse.html",
+		"/C/Users/Andrey/AppData/Roaming/Sublime Text 3/Packages/User/color_helper.sublime-settings",
+		"/F/HTML5/HTML5/ShablonLight/app/sass/_truefalse.scss",
+		"/F/Загрузки/ALL/css3-jquery-animacija-lenty-novostej/index.html",
+		"/F/Загрузки/ALL/modernizr-custom.js",
+		"/F/HTML5/HTML5/ShablonLight/app/fonts/fonts.css",
+		"/F/HTML5/HeadFirstJavascriptProgramming/Head-First-JavaScript-Programming-master/Head-First-JavaScript-Programming-master/chapter1/index.html",
+		"/F/HTML5/HeadFirstJavascriptProgramming/Head-First-JavaScript-Programming-master/Head-First-JavaScript-Programming-master/chapter1/code.js",
+		"/C/Users/Andrey/AppData/Roaming/Sublime Text 3/Packages/User/font-face.sublime-snippet",
+		"/F/HTML5/HTML5/ShablonHabr/gulpfile.js",
+		"/F/HTML5/HTML5/ShablonLight/package.json",
+		"/F/HTML5/HTML5/ShablonLight/app/css/common.css",
+		"/F/HTML5/HTML5/ShablonLight/dist/index.html",
+		"/F/HTML5/HTML5/ShablonLight/js/c.js",
+		"/F/HTML5/HTML5/ShablonLight/js/b.js",
+		"/F/HTML5/HTML5/ShablonLight/js/a.js",
+		"/F/HTML5/HTML5/ShablonLightLoc1/gulpfile.js",
+		"/F/HTML5/HTML5/ShablonLightLoc1/index.html",
+		"/F/HTML5/HTML5/ShablonLightLoc1/Local1.sublime-project",
+		"/F/HTML5/HTML5/ShablonLightLoc1/ShablonLightLoc1.sublime-project",
+		"/F/HTML5/HTML5/ShablonFromGit/src/js/main.js",
+		"/F/HTML5/HTML5/ShablonFromGit/src/style/fonts.css",
+		"/F/HTML5/HTML5/ShablonFromGit/src/style/main.scss",
+		"/F/HTML5/HTML5/ShablonFromGit/src/template/professionals.html",
+		"/F/HTML5/HTML5/ShablonFromGit/gulpfile.js",
+		"/F/HTML5/HTML5/ShablonFromGit/src/index.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">\n",
+			"bevarage",
+			"FIGURES",
+			"md",
+			"search.b1.org",
+			"—",
+			"overLine",
+			"requestAnimationframe",
+			"markFirst",
+			"constGr",
+			"createCircle",
+			"gridarr",
+			"greedarr",
+			"console",
+			"changeSelection",
+			"splice",
+			"console",
+			"stroke",
+			"cleanSELECTION",
+			"\tif(mousedown){\n\t\tmousedown = false;\n\t\tonOver = false;    // если не установить объекты будут бегать за мышкой даже если не нажата\n\n\t\tif(!blockRectSel && selRect ){\n\t\t\tselRect.updateBound();\n\t\t\tindicateRect( selRect );\n\t\t\tconsole.log( SELECTION );\n\t\t\t$(\"#\"+selRect.id).remove();\n\t\t\tselRect = null;\n\t\t}\n\t}",
+			"cleanSELECTION",
+			"addToSELECTION",
+			");\n",
+			"addToSELECTION",
+			"selectObj",
+			"addToSELECTION",
+			"slice",
+			"selectGroup",
+			"contextMenu",
+			"contextMenu\n",
+			");\n",
+			"contextMenu",
+			"checkFirstNode",
+			"addToSelection",
+			"contextF",
+			"mousedownOnOver",
+			"blocked = true;",
+			"onOver",
+			"consol",
+			"blockSelect",
+			"incFirstNode",
+			"mousedownXY",
+			"Conso",
+			"MAIN",
+			"overObject(e, OBJECTS)",
+			"changeSelection",
+			"mousedownXYM",
+			"old_M",
+			"changeSelection",
+			"contextMenu",
+			"consol",
+			"returnToStart",
+			"conso",
+			"firstNode",
+			"selection",
+			"unstroke",
+			"nodeline",
+			"container",
+			"\"#container\"",
+			"#container",
+			"addC",
+			"difrence",
+			"getDifrenceInGroup",
+			"console",
+			"conso",
+			"CURR",
+			"createCircle",
+			"contextF",
+			"overObject",
+			"selectObject",
+			"TEMPGROUP",
+			"exlude",
+			"cleanTempGroup",
+			"unStrokeObj",
+			"strokeObject",
+			"consol",
+			"vel",
+			"PARENTS",
+			"ctrl",
+			"buildLast",
+			"PARENT",
+			"console",
+			"log",
+			"stroke",
+			"makeCurr",
+			"nowX",
+			"curr",
+			"createCircle",
+			"objectBox",
+			"curr",
+			"createLine",
+			"createCircle",
+			"canvas",
+			"aLine",
+			"aCircle",
+			"aRect",
+			"mouseXY",
+			"overObject",
+			"shootInArray",
+			"c",
+			"mouseXY",
+			"yClick",
+			"xClick",
+			"selected",
+			"rad",
+			"step",
+			"i",
+			"createCanvas",
+			"createLine",
+			"this",
+			"tanYX",
+			"count",
+			"console.log",
+			"consol.log",
+			"400",
+			"    ",
+			"();",
+			"tg",
+			"animate_step2",
+			"obj",
+			"this",
+			"text-onix",
+			"className",
+			"dataType__description",
+			"span",
+			"rei"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\t",
+			"\\t"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/F/HTML5/HTML5/ShablonLight/SL.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 129,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								117,
+								69
+							]
+						],
+						"settings":
+						{
+							"color_helper.box_height": 15,
+							"color_helper.color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".sublime-project",
+								"current_syntax": "JavaScript/JSON",
+								"enabled": false,
+								"last_updated": 1492001448.19
+							},
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1170,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								42,
+								42
+							]
+						],
+						"settings":
+						{
+							"color_helper.box_height": 15,
+							"color_helper.color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".js",
+								"current_syntax": "JavaScript/JavaScript",
+								"enabled": false,
+								"last_updated": 1492001448.19
+							},
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 187,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								169,
+								169
+							]
+						],
+						"settings":
+						{
+							"color_helper.box_height": 15,
+							"color_helper.color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"hex",
+									"rgba",
+									"webcolors",
+									"hsla",
+									"hsl",
+									"hex_compressed",
+									"rgb"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".html",
+								"current_syntax": "HTML/HTML",
+								"enabled": true,
+								"last_updated": 1492001448.19,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.property-list.css -support.type.property-name.css -comment -string",
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
+							},
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.896449026537,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 215.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"output.gulp_output":
+	{
+		"height": 153.0
+	},
+	"pinned_build_system": "",
+	"project": "shablon-new.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 293.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
